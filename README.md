@@ -2,7 +2,6 @@
 
 Welcome to Flip-a-Coin! A simple web application built with HTML, CSS, and JavaScript that lets you flip a virtual coin with just a click.
 
-![Flip-a-Coin Demo](demo.gif)
 
 ## Features
 
